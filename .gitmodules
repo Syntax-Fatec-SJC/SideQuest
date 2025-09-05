@@ -1,0 +1,6 @@
+[submodule "SideQuest-FrontEnd"]
+	path = SideQuest-FrontEnd
+	url = https://github.com/Syntax-Fatec-SJC/SideQuest-FrontEnd.git
+[submodule "SideQuest-BackEnd"]
+	path = SideQuest-BackEnd
+	url = https://github.com/Syntax-Fatec-SJC/SideQuest-BackEnd.git
