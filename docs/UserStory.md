@@ -200,10 +200,11 @@
 ---
 
 ## User Story 13: Lixeira
-**Eu, como sistema, deve salvar todos os arquivos excluídos por um período de tempo antes da exclusão definitiva desse arquivo**
+**Eu, como sistema, deve armazenar todos os arquivos excluídos por um período de tempo antes da exclusão definitiva desse arquivo**
 
 - O sistema deve armazenar o último estado do arquivo na página de “Lixeira”
 - O sistema deve retornar o arquivo para o mesmo estado que estava antes da exclusão
+- O sistema deve armazenar todos os projetos e tarefas excluídos
 
 ### Casos:
 - **Caso 1:** Uma tarefa foi excluída

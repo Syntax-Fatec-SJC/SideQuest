@@ -26,7 +26,7 @@ A SideQuest surge para resolver essas dores, proporcionando uma plataforma moder
 |12   |Média      |Tarefas por membros       |Eu, como sistema, desejo informar quantas tarefas foram concluídas por cada um dos membros de um projeto    |13         |2      |
 |10   |Baixa      |Visualizar avisos         |Eu, como usuário, quero poder visualizar todas as notificações que foram ligadas ao meu usuário             |21         |3      |
 |11   |Baixa      |Progresso do projeto      |Eu, como sistema, desejo informar o andamento do projeto.                                                   |21         |3      |
-|13  |Baixa      |Lixeira                   |Eu, como sistema, tenho que salvar todos os itens que forem excluídos.                                      |21         |3      |
+|13  |Baixa      |Lixeira                   |Eu, como sistema, devo armazenar todos os itens que forem excluídos em uma lixeira, permitindo sua exclusão completa ou restauração.                                      |21         |3      |
 
 
 # 🗃️ Sprints 
@@ -35,7 +35,7 @@ A SideQuest surge para resolver essas dores, proporcionando uma plataforma moder
 |----------|--------------|-----------------------|--------------|------| 
 | Sprint 1 | 08/09 - 28/09| ✅ Concluida          |📄[Relatório](./docs/Sprint1/Sprint1.md)|🎥 [Vídeo](https://youtu.be/DhGwp1KHiGQ)| 
 | Sprint 2 | 06/10 - 26/10| ✅ Concluida          |📄[Relatório](./docs/Sprint2/Sprint2.md)|🎥 [Vídeo](https://youtu.be/KwKw1hz7pbc)|
-| Sprint 3 | 03/11 - 23/11| ❌ Pendente           |-------------|------|
+| Sprint 3 | 03/11 - 23/11| ⏳ Em andamento       |-------------|------|
 
 # ⚙️ Tecnologias Utilizadas
 
@@ -276,7 +276,9 @@ npm run preview
 
 # Documentação
 - 📄 [Documentação](./docs)
-- 📄 [Sprint1](./docs/Sprint1/)
+- 📄 [Sprint-1](./docs/Sprint1/)
+- 📄 [Sprint-2](./docs/Sprint2/)
+- 📄 [Sprint-3](./docs/Sprint3/)
 - 📄 [EndPoints](http://localhost:8080/swagger-ui/index.html) 
     - Para testar os endpoints primeiro inicie o backend do projeto
 
