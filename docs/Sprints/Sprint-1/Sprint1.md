@@ -13,6 +13,9 @@
 |4    |Alta       |Gerenciamento de equipes  |Eu, como usuário, desejo visualizar os demais membros, podendo editar, excluir ou acrescentar membros na equipe do projeto|5          |1      |
 |5    |Alta       |Registro de tarefas       |Eu, como usuário, quero poder visualizar todas as tarefas de um projeto, vendo se elas estão pendentes, em desenvolvimento ou concluídas|13         |1      |
 
+# 📉 Cronograma de evolução
+![img](../../../img/Sprint1.png)
+
 ## User Story 1: Cadastro
 **Eu, como usuário, desejo visualizar métodos para realizar o cadastro utilizando um e-mail e senha**
 
