@@ -68,8 +68,9 @@ Certifique-se de ter instalado:
 
 # Documentação
 - 📄 [Documentação](./docs)
-- 📄 [Manual do Usuário](./docs/Manual%20do%20Usuario%20-%203%20Semestre.pdf)
 - 📄 [Documentação das Sprints](./docs/Sprints/)
+- 📄 [Manual do Usuário](https://docs.google.com/document/d/1r5kkZpnkw4C7JLdwIBaiik9p-UdxNu1ectbKrIT_y7M/edit?usp=sharing)
+- 📉 [Cronograma de evolução](https://docs.google.com/document/d/1MTumg1Gks_mJV8ku0xQx5rg-R2Jy3xA1EJaOD7wLL_c/edit?usp=sharing)
 
 # 👨‍💻 Equipe de Desenvolvimento
 

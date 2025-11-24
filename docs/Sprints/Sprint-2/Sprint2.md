@@ -11,8 +11,6 @@
 |8    |Média      |Registro de entregas próximas|Eu, como sistema, quero informar ao usuário as tarefas com os prazos mais próximos                          |8          |2      |
 |12   |Média      |Tarefas por membros       |Eu, como sistema, desejo informar quantas tarefas foram concluídas por cada um dos membros de um projeto    |13         |2      |
 
-# 📉 Cronograma de evolução
-![img](../../imgs/Sprint2.png)
 
 ## User Story 7: Anexo de Arquivos
 **Eu, como usuários, quero poder anexar arquivos a tarefas, em diferentes formatos** 

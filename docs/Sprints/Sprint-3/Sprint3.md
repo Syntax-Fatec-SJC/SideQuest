@@ -11,9 +11,6 @@
 |12   |Baixa      |Progresso do projeto      |Eu, como sistema, desejo informar o andamento do projeto.                                                   |21         |3      |
 |13   |Baixa      |Lixeira                   |Eu, como sistema, tenho que salvar todos os itens que forem excluídos.                                      |21         |3      |
 
-# 📉 Cronograma de evolução
-![img](../../imgs/Sprint3.png)
-
 ## User Story 7: Anexo de Arquivos
 **Eu, como usuários, quero poder anexar arquivos a tarefas, em diferentes formatos** 
 
