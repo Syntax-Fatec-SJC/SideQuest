@@ -1,6 +1,6 @@
 # 📋 SideQuest - Sistema de gerenciamento de tarefas
 
-![Banner](/img/SideQuest.jpg)
+![banner](/docs/imgs/SideQuest.png)
 
 # 🎯 Desafio
 
