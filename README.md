@@ -10,6 +10,13 @@ O desafio é oferecer uma solução que simplifique esse processo, permitindo qu
 
 A SideQuest surge para resolver essas dores, proporcionando uma plataforma moderna, intuitiva e eficaz para organizar atividades, melhorar a comunicação interna e aumentar a eficiência do trabalho em equipe.
 
+# Minha contribuição
+
+- Implementação de autenticação e autorização com Spring Security
+- Desenvolvimento do microsserviço de anexos
+- Integração entre frontend e backend para upload de arquivos
+- Desenvolvimento de endpoints REST para gerenciamento de tarefas
+
 # 📝 Backlog do Produto
 
 |Rank |Prioridade |Requisito                 |User Story                                                                                                  |Estimativa |Sprint |
