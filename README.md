@@ -16,7 +16,7 @@ A SideQuest surge para resolver essas dores, proporcionando uma plataforma moder
 - Desenvolvimento do microsserviço de anexos
 - Integração entre frontend e backend para upload de arquivos
 - Desenvolvimento de endpoints REST para gerenciamento de tarefas
-- 
+
 # ⚙️ Tecnologias Utilizadas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
